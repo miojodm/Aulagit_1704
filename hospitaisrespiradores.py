@@ -40,7 +40,7 @@ else:
     print("O hospital não precisou de mais respiradores, total: ", qrH5)
     
     
-print("Hello World!")
+print("Hello World?")
 
 
 

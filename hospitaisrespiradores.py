@@ -38,6 +38,9 @@ if qrH5 < 50 and toH5 > 60:
     print("O hospital 5 recebeu mais 5 respiradores, portanto, agora tem ", qrH5, " respiradores")
 else:
     print("O hospital não precisou de mais respiradores, total: ", qrH5)
+    
+    
+print("Hello World!")
 
 
 
